@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @mewmewmewmewmewmewmew
+- 👀 I’m interested in travel, soundscapes, generative art, and games from the psp era
+- 🌱 I’m currently improving my skills in object manipulation techniques through audio and game mechanic prototyping
+- 🌐 A fun fact about me: on top of knowledge in java script and C#, I also speak 5 other non computer languages
+
+<!---
+mewmewmewmewmewmewmew/mewmewmewmewmewmewmew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
