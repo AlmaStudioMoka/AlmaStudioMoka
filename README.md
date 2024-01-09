@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mewmewmewmewmewmewmew
-- 👀 I’m interested in travel, soundscapes, generative art, and games from the psp era
+- 👀 I’m interested in travel, soundscapes, generative art, and graffiti and 2000s aesthetics.
 - 🌱 I’m currently improving my skills in object manipulation techniques through audio and game mechanic prototyping
 - 🌐 A fun fact about me: on top of knowledge in java script and C#, I also speak 5 other non computer languages
 
