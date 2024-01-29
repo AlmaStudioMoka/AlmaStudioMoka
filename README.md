@@ -6,7 +6,6 @@
 My bucketlist
 
 - Revisit Harbin
-- Climb outdoors
 - Code for physical hardware
 - Cellular Automata rulesetter (complete)
 - anti gravity racing game (in progress)
