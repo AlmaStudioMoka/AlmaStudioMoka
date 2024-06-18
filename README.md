@@ -15,7 +15,7 @@ My bucketlist
 - CA as a core mechanic in a game
 - Wrapper for Fmod to use in GMS
 - tool to implement accessibility features
-- Make a mecha game. Any kind of mecha game (in progress)
+- Make a mecha game. Any kind of mecha game (Hiatus)
 - Music visualizer tools (complete)
 - Get 1000 people to play my games cumulatively
 - Have my music at a show
