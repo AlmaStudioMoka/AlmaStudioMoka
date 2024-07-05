@@ -5,7 +5,7 @@
 
 ![image](https://github.com/mewmewmewmewmewmewmew/mewmewmewmewmewmewmew/assets/125397197/23c5b281-f835-4e87-9b88-edcb09194c5b)
 
-
+note: this username is not tied to the gen alpha phenomenon of mewing. It is related to the cute sound cats and kittens make, as I have always been a cat owner.
 
 My bucketlist
 
