@@ -3,6 +3,8 @@
 - 🌱 I’m currently improving my skills in object oriented prototyping through audio visualization and game mechanics
 - 🌐 A fun fact about me: on top of knowledge in C#, I also speak 5 other non computer languages. If you feel up for a challenge DM me your guess of which ones you think they are ;)
 
+![image](https://github.com/mewmewmewmewmewmewmew/mewmewmewmewmewmewmew/assets/125397197/ec71ac93-ec5e-49fb-b08e-d1a0051e2f67)
+
 My bucketlist
 
 - Revisit Harbin
