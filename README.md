@@ -5,7 +5,7 @@
 
 ![image](https://github.com/mewmewmewmewmewmewmew/mewmewmewmewmewmewmew/assets/125397197/23c5b281-f835-4e87-9b88-edcb09194c5b)
 
-note: This username is inspired by my favourite pokemon 
+(inspired by the soft noises my cat likes to make to get my attention)
 
 My bucketlist
 
