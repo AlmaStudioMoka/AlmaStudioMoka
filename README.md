@@ -23,6 +23,7 @@ My bucketlist
 - Music visualizer tools (complete)
 - Get 1000 people to play my games cumulatively
 - Have my music at a show
+- LCD 1 BIT Shooter
   
 <!---
 mewmewmewmewmewmewmew/mewmewmewmewmewmewmew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
