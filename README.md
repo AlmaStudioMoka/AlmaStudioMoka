@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nico, aka @AlmaStudioMoka
 - 👀 I’m interested in travel, soundscapes, generative art, and graffiti and 2000s aesthetics.
 - 🌱 I’m currently improving my skills in object oriented prototyping through audio visualization and game mechanics
-- 🌐 A fun fact about me: on top of knowledge in C#, I also speak 5 other non computer languages. If you feel up for a challenge DM me your guess of which ones you think they are ;)
+- 🌐 A fun fact about me: on top of knowledge in C#, I also speak 5 other non computer languages.
 
 ![image](https://github.com/mewmewmewmewmewmewmew/mewmewmewmewmewmewmew/assets/125397197/23c5b281-f835-4e87-9b88-edcb09194c5b)
 
