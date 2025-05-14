@@ -10,7 +10,7 @@
 My bucketlist
 
 - Revisit Harbin
-- Code for physical hardware (Compelte)
+- Code for physical hardware (complete)
 - Cellular Automata rulesetter (complete)
 - anti gravity racing game (in progress)
 - mobile game with a shop (complete)
